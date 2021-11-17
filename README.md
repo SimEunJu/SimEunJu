@@ -1,4 +1,4 @@
-<h2 align="center"> :runner: 지금 <br/> </h2>
+<!-- <h2 align="center"> :runner: 지금 <br/> </h2>
 
 <h3 align="center"> :watermelon: 백 :watermelon: </h3>
 <p align="center">
@@ -47,3 +47,4 @@
     <img src="https://github.com/SimEunJu/SimEunJu/blob/main/ibm-quantum-challenge-fall-2020-intermediate.png" alt="ibm quantum challenge 2020 fall" />
   </a>
 </p>
+ -->
